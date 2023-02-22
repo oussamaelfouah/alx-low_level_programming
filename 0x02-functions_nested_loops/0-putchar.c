@@ -1,8 +1,8 @@
 #include "main.h"
 	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
+	 * main - Entry point
+     * 
+     * Return: 0 (Success)
 	 */
 
 
@@ -19,3 +19,4 @@
 	_putchar('\n');
 	return (0);
 	}
+
